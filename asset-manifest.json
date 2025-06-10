@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/alkye/static/css/main.d861a282.css",
+    "main.js": "/alkye/static/js/main.9ffd8221.js",
+    "static/js/863.ee58becd.chunk.js": "/alkye/static/js/863.ee58becd.chunk.js",
+    "static/js/228.a5ab18bf.chunk.js": "/alkye/static/js/228.a5ab18bf.chunk.js",
+    "static/js/453.c5f722f2.chunk.js": "/alkye/static/js/453.c5f722f2.chunk.js",
+    "static/js/382.3d7b7d74.chunk.js": "/alkye/static/js/382.3d7b7d74.chunk.js",
+    "static/media/slideImage.avif": "/alkye/static/media/slideImage.e6e2cc2706ad17725af7.avif",
+    "static/media/test-soehne-buch.woff2": "/alkye/static/media/test-soehne-buch.8c5b0706d9418f6b95ee.woff2",
+    "static/media/logo.svg": "/alkye/static/media/logo.af98c448a168b283884115bd37d63a12.svg",
+    "index.html": "/alkye/index.html",
+    "main.d861a282.css.map": "/alkye/static/css/main.d861a282.css.map",
+    "main.9ffd8221.js.map": "/alkye/static/js/main.9ffd8221.js.map",
+    "863.ee58becd.chunk.js.map": "/alkye/static/js/863.ee58becd.chunk.js.map",
+    "228.a5ab18bf.chunk.js.map": "/alkye/static/js/228.a5ab18bf.chunk.js.map",
+    "453.c5f722f2.chunk.js.map": "/alkye/static/js/453.c5f722f2.chunk.js.map",
+    "382.3d7b7d74.chunk.js.map": "/alkye/static/js/382.3d7b7d74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d861a282.css",
+    "static/js/main.9ffd8221.js"
+  ]
+}
