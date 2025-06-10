@@ -1,0 +1,62 @@
+.alkye .logo-sec,
+.alkye .head-content {
+    text-align: center;
+}
+
+.alkye .home-view-main {
+    padding-top: 5%;
+}
+
+.alkye .logo-sec {
+    margin-bottom: 30px;
+}
+
+.head-content h1 {
+    font-weight: 700;
+}
+
+.photo-btn {
+    background-color: var(--blackClr);
+    border: 0px;
+    border-radius: 40px;
+    padding: 5px 15px;
+    color: var(--whiteClr);
+    font-size: 14px;
+}
+
+.card-sec .image-sec img {
+    width: 100%;
+    border-radius: 50px;
+}
+
+.card-sec {
+    position: relative;
+}
+
+.card-sec .overlay-content {
+    position: absolute;
+    top: 10%;
+    left: 5%;
+}
+
+.overlay-content p {
+    color: var(--whiteClr);
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+.detail-img img {
+    width: 100%;
+}
+
+.head-data {
+    margin: 25px 0px 25px 0px;
+}
+
+.custom-slide {
+    cursor: pointer;
+}
+
+.head-content {
+    margin-bottom: 4%;
+}

@@ -1,0 +1,28 @@
+html,
+body {
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  overflow-x: hidden;
+}
+
+:root {
+  --blackClr: #000;
+  --grayClr: #6D6D6D;
+  --whiteClr: #fff;
+}
+
+@font-face {
+  font-family: 'Test Sohne';
+  src: url('./Assests/Fonts/font/test-soehne-buch.woff2');
+}
+
+;
+
+
+
+body.alkye {
+  font-family: 'Test Sohne';
+}
+
+@import url('./Assests/Css/HomeView.css');
