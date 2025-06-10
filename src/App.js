@@ -9,7 +9,7 @@ function App() {
     <AppProvider>
       <div className="App">
 
-        <Router basename='/bhive'>
+        <Router basename='/alkye'>
           <Suspense fallback='Loading'>
 
             {PageRoute.map((item) => (
